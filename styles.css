@@ -131,6 +131,12 @@ a:focus-visible {
   margin-bottom: 1.5rem;
 }
 
+.system-line {
+  color: #ffffff;
+  margin: 1rem 0;
+  font-weight: 600;
+}
+
 .hero__facts {
   display: grid;
   gap: 1.5rem;
